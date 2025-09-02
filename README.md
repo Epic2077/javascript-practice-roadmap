@@ -65,6 +65,7 @@ We welcome contributions! You can:
 - Add new resources or questions
 - Improve existing solutions
 - Help with documentation
+- Add Languages
 
 **How to contribute:**
 
