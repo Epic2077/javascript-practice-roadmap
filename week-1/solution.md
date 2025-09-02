@@ -72,7 +72,7 @@ console.log("Remainder when divided by 2 (num % 2):", num % 2);
 Assign suitable names and data types.
 
 ```javascript
-let userName = "Ali"; // string
+let userName = "John Doe"; // string
 const piValue = 3.14159; // number
 const googleDomain = "https://www.google.com"; // string
 let userId = 12345; // number (or string if alphanumeric)
@@ -87,7 +87,7 @@ Identify the data types of the following values:
 
 | Value                           | Data Type | Description                              |
 | ------------------------------- | --------- | ---------------------------------------- |
-| "maktab"                        | string    | Text value                               |
+| "Pizza"                         | string    | Text value                               |
 | 3 + 2                           | number    | 5                                        |
 | "4" + 4                         | string    | "44" (concatenation)                     |
 | 122222332232322232323232232321n | bigint    | Large integer                            |
@@ -106,11 +106,7 @@ Ask for age, confirm, and display a message.
 let userAge = prompt("Enter your age:");
 let isAgeCorrect = confirm(`You entered ${userAge}. Is this correct?`);
 
-if (isAgeCorrect) {
-  alert(`You are ${userAge} years old.`);
-} else {
-  alert("Please refresh the page to enter your correct age.");
-}
+isAgeCorrect && alert("You are " + userAge + " years old");
 ```
 
 ---
@@ -145,14 +141,10 @@ flag = flag++; // flag remains false
 Ask a math question and check the answer.
 
 ```javascript
-let userAnswer = prompt("What is 5 + 7?");
-const correctAnswer = 12;
-
-if (parseInt(userAnswer) === correctAnswer) {
-  alert("Won");
-} else {
-  alert("Game Over");
-}
+let question = "12 + 2 = ?";
+let answer = prompt(question);
+Number(answer) === 14 && alert("Won!");
+Number(answer) !== 14 && alert("Game Over!");
 ```
 
 ---
@@ -164,11 +156,7 @@ Check if a number is even or odd and display the result.
 ```javascript
 let number = parseInt(prompt("Enter a number:"));
 
-if (number % 2 === 0) {
-  alert(`${number} is an Even number.`);
-} else {
-  alert(`${number} is an Odd number.`);
-}
+num % 2 === 0 && alert("Even Number")(num % 2 !== 0) && alert("Odd Number");
 ```
 
 ---
