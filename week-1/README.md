@@ -24,13 +24,7 @@
 
 ## 📝 Practice Questions
 
-1. What is JavaScript and where is it used?
-2. How do you set up a code editor for JavaScript development?
-3. Write your first "Hello World" program in JavaScript.
-4. What are variables? How do you declare them?
-5. List and describe the main data types in JavaScript.
-6. Show examples of basic operators in JavaScript.
-7. What is type conversion? Give examples.
+> Questions can be found in the [question.md](./question.md) file.
 
 ---
 
