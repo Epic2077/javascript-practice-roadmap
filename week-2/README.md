@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>Week 1: Introduction to JavaScript</h2>
+    <h2>Week 2: Introduction to Operators in JavaScript</h2>
 </div>
 
 ---
