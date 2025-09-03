@@ -9,13 +9,12 @@
 - [Comparison](https://javascript.info/comparison)
   - Optional:
     [Comparisons and Logic Operators](https://www.w3schools.com/js/js_comparisons.asp)
+  - Optional:
     [Comparisons Operators](https://www.javascripttutorial.net/javascript-comparison-operators/)
-- [Setting Up Code Editor](https://javascript.info/code-editors)
-- [Hello World](https://javascript.info/hello-world)
-- [Variables](https://javascript.info/variables)
-- [Data Types](https://javascript.info/types)
-- [Basic Operators](https://javascript.info/operators)
-- [Type Conversions](https://javascript.info/type-conversions)
+- [If-Else Statements](https://javascript.info/ifelse)
+- [Operators](https://javascript.info/logical-operators)
+- [Falsy and Truthy Values](https://www.javascripttutorial.net/javascript-tutorial/javascript-falsy/)
+- [Switch Satetment](https://javascript.info/switch)
 
 ---
 
@@ -38,5 +37,5 @@
 ---
 
 <div align="center">
-    <b>Start your JavaScript journey here! 🚀</b>
+    <b>Week 2 of your JavaScript journey! 🚀</b>
 </div>
