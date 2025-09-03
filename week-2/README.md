@@ -7,9 +7,9 @@
 ## 📚 Resources
 
 - [Comparison](https://javascript.info/comparison)
-  > Optional:
-  - [Comparisons and Logic Operators](https://www.w3schools.com/js/js_comparisons.asp)
-  - [Comparisons Operators](https://www.javascripttutorial.net/javascript-comparison-operators/)
+  - Optional:
+    [Comparisons and Logic Operators](https://www.w3schools.com/js/js_comparisons.asp)
+    [Comparisons Operators](https://www.javascripttutorial.net/javascript-comparison-operators/)
 - [Setting Up Code Editor](https://javascript.info/code-editors)
 - [Hello World](https://javascript.info/hello-world)
 - [Variables](https://javascript.info/variables)
