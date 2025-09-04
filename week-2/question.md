@@ -1,4 +1,4 @@
-# 🌟 Mission: The Novice Developer's Challenge
+# 🌟 Mission: The Problem Solver Developer's Challenge
 
 Welcome to your second JavaScript mission! Each stage will help you build your skills step by step. Enjoy the journey! 🎮
 
@@ -86,3 +86,9 @@ System Rules:
 > 1. Asks the customer for the type of operation (Check Balance, Withdraw, Deposit).
 > 2. Assume the initial balance is 100,000 Dollars.
 > 3. Based on the operation type, calculates and displays the final balance.
+
+---
+
+<div align="center">
+  <b>Complete each stage to level up your JavaScript skills! 🚀</b>
+</div>
