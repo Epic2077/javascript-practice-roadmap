@@ -6,13 +6,13 @@ Welcome to your second JavaScript mission! Each stage will help you build your s
 
 ## 🧑‍💻 Stage 1: Digital Library Management (Comparisons and Conditions)
 
-> **Your Task:**
->
-> 📝 A digital library. Users must select books based on their category. Each book has a rating, and user can borrow a book provided that:
->
-> - The book's rating is greater than 7.
-> - If the book's rating is between 5 and 7, only VIP users can borrow it.
-> - If the rating is less than 5, the book is not available for borrowing.
+**Your Task:**
+
+📝 A digital library. Users must select books based on their category. Each book has a rating, and user can borrow a book provided that:
+
+- The book's rating is greater than 7.
+- If the book's rating is between 5 and 7, only VIP users can borrow it.
+- If the rating is less than 5, the book is not available for borrowing.
 
 > 🖥️ Write a program that.
 >
