@@ -26,6 +26,7 @@ Welcome to your second JavaScript mission! Each stage will help you build your s
 ## 🍕 Stage 2: Online Food Order Management (Switch and Nested Conditions)
 
 **Your Task:**
+
 🍔 You are responsible for programming an online food ordering system. Customers can choose the type of food and then order a specific variant of that food. The system rules are as follows:
 
 - If the food is "Pizza", the customer must choose "Pepperoni", "Margherita", or "Vegetable".
@@ -44,6 +45,7 @@ Welcome to your second JavaScript mission! Each stage will help you build your s
 ## 🎓 Stage 3: Automated Grading System (Logical Operators and Complex Conditions)
 
 **Your Task:**
+
 🏫 A teacher wants to design an automated grading system. Their grading rules are as follows:
 
 - If a student scores more than 90, they get an "A".
@@ -64,6 +66,7 @@ Welcome to your second JavaScript mission! Each stage will help you build your s
 
 **Your Task:**
 **NOTE: Use both switch and condition operators**
+
 💵 A bank has a system where customers can:
 
 1. Check their account balance.
