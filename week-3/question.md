@@ -1,6 +1,6 @@
 # 🌟 Mission: The Function Developer's Challenge
 
-Welcome to your second JavaScript mission! Each stage will help you build your skills step by step. Enjoy the journey! 🎮
+Welcome to your Third JavaScript mission! Each stage will help you build your skills step by step. Enjoy the journey! 🎮
 
 ---
 
@@ -60,7 +60,7 @@ Welcome to your second JavaScript mission! Each stage will help you build your s
 
 ---
 
-## 🎂 Stage 7: How Old Are You?
+## 🎂 Stage 8: How Old Are You?
 
 **Your Task:**
 
@@ -68,7 +68,7 @@ Welcome to your second JavaScript mission! Each stage will help you build your s
 
 ---
 
-## 🔀 Stage 8: Make It Reversed!
+## 🔀 Stage 9: Make It Reversed!
 
 **Your Task:**
 
@@ -76,7 +76,7 @@ Welcome to your second JavaScript mission! Each stage will help you build your s
 
 ---
 
-## 🔄️ Stage 9: Lets Count!
+## 🔄️ Stage 10: Lets Count!
 
 **Your Task:**
 
